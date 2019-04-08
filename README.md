@@ -6,7 +6,9 @@ April 9-10, Chicago IL
 ------------------------------------------------------------------------
 
 **Meeting location:** 224 South Michigan (Railway Exchange Building),
-Chicago, IL \#\#\# Room 350
+Chicago, IL
+
+### Room 350
 
 ![map](https://i.imgur.com/FbPJkqp.png)
 
