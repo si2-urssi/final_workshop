@@ -8,7 +8,7 @@ April 9-10, Chicago IL
 **Meeting location:** 224 South Michigan (Railway Exchange Building),
 Chicago, IL. Room 350
 
-\*\*Evening reception: [Plymouth
+**Evening reception**: [Plymouth
 Grill](http://plymouthgrill.com/rooftop-bar-grill/)
 
 ![map](https://i.imgur.com/FbPJkqp.png)
