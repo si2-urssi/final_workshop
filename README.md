@@ -34,16 +34,16 @@ to meet from 830-5pm both days, with a reception at 6pm on day 1 at the [Plymout
 ### April 9th
 
 
-|Start |End   |Topic                                                             |Presenter    |Notes                                                                                                     |
-|:-----|:-----|:-----------------------------------------------------------------|:------------|:---------------------------------------------------------------------------------------------------------|
-|8:30  |9     |[Introduction](http://inundata.org/talks/urssi_final/#/)          |PIs          |[Notes](NA)                                                                                               |
-|9     |10:30 |[Mission/Vision, Survey](NA)                                      |Karthik/Jeff |[Notes](https://docs.google.com/document/d/1p5oKE-ke-ov0dBCk8xu8m13O-qWRrZVVlMHjKvjPgqM/edit?usp=sharing) |
-|10:30 |10:45 |[Coffee 1](NA)                                                    |             |[Notes](NA)                                                                                               |
-|10:45 |12    |[Policy data & advocacy / outreach](NA)                           |Dan          |[Notes](NA)                                                                                               |
-|12    |1:30  |[Lunch 1](NA)                                                     |             |[Notes](NA)                                                                                               |
-|1:30  |3     |[E&T: Summer School, E&T: Sustainability / Project carpentry](NA) |Jeff         |[Notes](NA)                                                                                               |
-|3:15  |3:30  |[Coffee 2](NA)                                                    |             |[Notes](NA)                                                                                               |
-|3:30  |5     |[Incubator](NA)                                                   |Nic          |[Notes](NA)                                                                                               |
+|Start |End   |Topic                                                                                                                      |Presenter    |Notes       |
+|:-----|:-----|:--------------------------------------------------------------------------------------------------------------------------|:------------|:-----------|
+|8:30  |9     |[Introduction](http://inundata.org/talks/urssi_final/#/)                                                                   |PIs          |[Notes](NA) |
+|9     |10:30 |[Mission/Vision, Survey](https://docs.google.com/document/d/1p5oKE-ke-ov0dBCk8xu8m13O-qWRrZVVlMHjKvjPgqM/edit?usp=sharing) |Karthik/Jeff |[Notes](NA) |
+|10:30 |10:45 |[Coffee 1](NA)                                                                                                             |             |[Notes](NA) |
+|10:45 |12    |[Policy data & advocacy / outreach](NA)                                                                                    |Dan          |[Notes](NA) |
+|12    |1:30  |[Lunch 1](NA)                                                                                                              |             |[Notes](NA) |
+|1:30  |3     |[E&T: Summer School, E&T: Sustainability / Project carpentry](NA)                                                          |Jeff         |[Notes](NA) |
+|3:15  |3:30  |[Coffee 2](NA)                                                                                                             |             |[Notes](NA) |
+|3:30  |5     |[Incubator](NA)                                                                                                            |Nic          |[Notes](NA) |
 
 ### April 10th
 
