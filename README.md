@@ -38,24 +38,24 @@ to meet from 830-5pm both days, with a reception at 6pm on day 1 at the [Plymout
 |:-----|:-----|:--------------------------------------------------------------------------------------------------------------------------|:------------|:---------------------------------------------------------------------------------------------------------|
 |8:30  |9     |[Introduction](http://inundata.org/talks/urssi_final/#/)                                                                   |PIs          |Notes                                                                                                     |
 |9     |10:30 |[Mission/Vision, Survey](https://docs.google.com/document/d/1p5oKE-ke-ov0dBCk8xu8m13O-qWRrZVVlMHjKvjPgqM/edit?usp=sharing) |Karthik/Jeff |[Notes](https://docs.google.com/document/d/1vQsQvp5MzD9l0zNel7QODKDXsH9lAdRFvGPHRntH5Ik/edit?usp=sharing) |
-|10:30 |10:45 |Slides                                                                                                                     |             |Notes                                                                                                     |
-|10:45 |12    |Slides                                                                                                                     |Dan          |Notes                                                                                                     |
-|12    |1:30  |Slides                                                                                                                     |             |Notes                                                                                                     |
-|1:30  |3     |Slides                                                                                                                     |Jeff         |Notes                                                                                                     |
-|3:15  |3:30  |Slides                                                                                                                     |             |Notes                                                                                                     |
-|3:30  |5     |Slides                                                                                                                     |Nic          |Notes                                                                                                     |
+|10:30 |10:45 |Coffee 1                                                                                                                   |             |Notes                                                                                                     |
+|10:45 |12    |Policy data & advocacy / outreach                                                                                          |Dan          |Notes                                                                                                     |
+|12    |1:30  |Lunch 1                                                                                                                    |             |Notes                                                                                                     |
+|1:30  |3     |E&T: Summer School, E&T: Sustainability / Project carpentry                                                                |Jeff         |Notes                                                                                                     |
+|3:15  |3:30  |Coffee 2                                                                                                                   |             |Notes                                                                                                     |
+|3:30  |5     |Incubator                                                                                                                  |Nic          |Notes                                                                                                     |
 
 ### April 10th
 
 
-|Start |End   |Topic  |Presenter |Notes |
-|:-----|:-----|:------|:---------|:-----|
-|8:30  |9     |Slides |          |Notes |
-|9     |10:30 |Slides |Sandra    |Notes |
-|10:30 |10:45 |Slides |          |Notes |
-|10:45 |12    |Slides |Dan       |Notes |
-|12    |1:30  |Slides |          |Notes |
-|1:30  |3     |Slides |TBD       |Notes |
-|3:15  |3:30  |Slides |          |Notes |
-|3:30  |5     |Slides |          |Notes |
+|Start |End   |Topic                                                                                      |Presenter |Notes |
+|:-----|:-----|:------------------------------------------------------------------------------------------|:---------|:-----|
+|8:30  |9     |Coffee                                                                                     |          |Notes |
+|9     |10:30 |Outreach / publicity / community management / fellowships                                  |Sandra    |Notes |
+|10:30 |10:45 |Coffee 3                                                                                   |          |Notes |
+|10:45 |12    |URSSI organization/management structure; sustainability; evaluation; metrics; partnerships |Dan       |Notes |
+|12    |1:30  |Lunch 2                                                                                    |          |Notes |
+|1:30  |3     |Topic 7                                                                                    |TBD       |Notes |
+|3:15  |3:30  |Coffee 4                                                                                   |          |Notes |
+|3:30  |5     |Wrap up discusssion                                                                        |          |Notes |
 
