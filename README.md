@@ -36,7 +36,7 @@ to meet from 830-5pm both days, with a reception at 6pm on day 1 at the [Plymout
 
 |Start |End   |Topic                                                       |Presenter    |Notes                                                                                                     |
 |:-----|:-----|:-----------------------------------------------------------|:------------|:---------------------------------------------------------------------------------------------------------|
-|8:30  |9     |Introduction                                                |PIs          |[Notes](NA)                                                                                               |
+|8:30  |9     |Introduction                                                |PIs          |[Notes](http://inundata.org/talks/urssi_final/#/)                                                         |
 |9     |10:30 |Mission/Vision, Survey                                      |Karthik/Jeff |[Notes](https://docs.google.com/document/d/1p5oKE-ke-ov0dBCk8xu8m13O-qWRrZVVlMHjKvjPgqM/edit?usp=sharing) |
 |10:30 |10:45 |Coffee 1                                                    |             |[Notes](NA)                                                                                               |
 |10:45 |12    |Policy data & advocacy / outreach                           |Dan          |[Notes](NA)                                                                                               |
