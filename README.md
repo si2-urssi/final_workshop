@@ -34,7 +34,7 @@ to meet from 830-5pm both days, with a reception at 6pm on day 1 at the [Plymout
 ### April 9th
 
 
-|Start |End   |Topic                                                       |Presenter    |Notes                                                                                                     |
+|Start |End   |Topic                                                       |Presenter    |Notes_Slides                                                                                              |
 |:-----|:-----|:-----------------------------------------------------------|:------------|:---------------------------------------------------------------------------------------------------------|
 |8:30  |9     |Introduction                                                |PIs          |[Notes](http://inundata.org/talks/urssi_final/#/)                                                         |
 |9     |10:30 |Mission/Vision, Survey                                      |Karthik/Jeff |[Notes](https://docs.google.com/document/d/1p5oKE-ke-ov0dBCk8xu8m13O-qWRrZVVlMHjKvjPgqM/edit?usp=sharing) |
@@ -48,14 +48,14 @@ to meet from 830-5pm both days, with a reception at 6pm on day 1 at the [Plymout
 ### April 10th
 
 
-|Start |End   |Topic                                                                                      |Presenter |Notes       |
-|:-----|:-----|:------------------------------------------------------------------------------------------|:---------|:-----------|
-|8:30  |9     |Coffee                                                                                     |          |[Notes](NA) |
-|9     |10:30 |Outreach / publicity / community management / fellowships                                  |Sandra    |[Notes](NA) |
-|10:30 |10:45 |Coffee 3                                                                                   |          |[Notes](NA) |
-|10:45 |12    |URSSI organization/management structure; sustainability; evaluation; metrics; partnerships |Dan       |[Notes](NA) |
-|12    |1:30  |Lunch 2                                                                                    |          |[Notes](NA) |
-|1:30  |3     |Topic 7                                                                                    |TBD       |[Notes](NA) |
-|3:15  |3:30  |Coffee 4                                                                                   |          |[Notes](NA) |
-|3:30  |5     |Wrap up discusssion                                                                        |          |[Notes](NA) |
+|Start |End   |Topic                                                                                      |Presenter |Notes_Slides |
+|:-----|:-----|:------------------------------------------------------------------------------------------|:---------|:------------|
+|8:30  |9     |Coffee                                                                                     |          |[Notes](NA)  |
+|9     |10:30 |Outreach / publicity / community management / fellowships                                  |Sandra    |[Notes](NA)  |
+|10:30 |10:45 |Coffee 3                                                                                   |          |[Notes](NA)  |
+|10:45 |12    |URSSI organization/management structure; sustainability; evaluation; metrics; partnerships |Dan       |[Notes](NA)  |
+|12    |1:30  |Lunch 2                                                                                    |          |[Notes](NA)  |
+|1:30  |3     |Topic 7                                                                                    |TBD       |[Notes](NA)  |
+|3:15  |3:30  |Coffee 4                                                                                   |          |[Notes](NA)  |
+|3:30  |5     |Wrap up discusssion                                                                        |          |[Notes](NA)  |
 
