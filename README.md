@@ -34,6 +34,12 @@ to meet from 830-5pm both days, with a reception at 6pm on day 1 at the [Plymout
 ### April 9th
 
 
+```
+## Error in curl::curl_fetch_memory(url, handle = handle): Timeout was reached: Operation timed out after 10000 milliseconds with 0 out of 0 bytes received
+```
+
+
+
 |Start |End   |Topic                                                                                                                                               |Presenter |Notes                                                                                                     |
 |:-----|:-----|:---------------------------------------------------------------------------------------------------------------------------------------------------|:---------|:---------------------------------------------------------------------------------------------------------|
 |8:30  |9     |[Introduction](http://inundata.org/talks/urssi_final/#/)                                                                                            |PIs       |                                                                                                          |
